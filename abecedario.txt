@@ -7,7 +7,7 @@ C
 D
 E
 F
-G
+g
 H
 I
 J
